@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 8104e38b5f2cb374792fd2b93a874c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -627213568895829813
+    second: pngfind.com-explosions-png-32584_0
+  - first:
+      213: -5051652273464737978
+    second: pngfind.com-explosions-png-32584_1
+  - first:
+      213: -2276710988563560721
+    second: pngfind.com-explosions-png-32584_2
+  - first:
+      213: -2827151859848931614
+    second: pngfind.com-explosions-png-32584_3
+  - first:
+      213: -9083232278322227303
+    second: pngfind.com-explosions-png-32584_4
+  - first:
+      213: 598308558108151959
+    second: pngfind.com-explosions-png-32584_5
+  - first:
+      213: 566025372461014437
+    second: pngfind.com-explosions-png-32584_6
+  - first:
+      213: -6995219561014221982
+    second: pngfind.com-explosions-png-32584_7
+  - first:
+      213: 292414435218892950
+    second: pngfind.com-explosions-png-32584_8
+  - first:
+      213: -3903991591793514569
+    second: pngfind.com-explosions-png-32584_9
+  - first:
+      213: 8303750953489611178
+    second: pngfind.com-explosions-png-32584_10
+  - first:
+      213: -6901375024656358258
+    second: pngfind.com-explosions-png-32584_11
+  - first:
+      213: 2963085139168478000
+    second: pngfind.com-explosions-png-32584_12
+  - first:
+      213: -4194073892184811928
+    second: pngfind.com-explosions-png-32584_13
+  - first:
+      213: -3572166797679469906
+    second: pngfind.com-explosions-png-32584_14
+  - first:
+      213: 6687004208075280372
+    second: pngfind.com-explosions-png-32584_15
+  - first:
+      213: -2229065327240747840
+    second: pngfind.com-explosions-png-32584_16
+  - first:
+      213: 5240344532425367674
+    second: pngfind.com-explosions-png-32584_17
+  - first:
+      213: -8123681039720529868
+    second: pngfind.com-explosions-png-32584_18
+  - first:
+      213: 8272791214247693888
+    second: pngfind.com-explosions-png-32584_19
+  - first:
+      213: -2230402219391968720
+    second: pngfind.com-explosions-png-32584_20
+  - first:
+      213: -6510641338227405248
+    second: pngfind.com-explosions-png-32584_21
+  - first:
+      213: 5686031136245787267
+    second: pngfind.com-explosions-png-32584_22
+  - first:
+      213: -5244329216393346498
+    second: pngfind.com-explosions-png-32584_23
+  - first:
+      213: -4194038204635447287
+    second: pngfind.com-explosions-png-32584_24
+  - first:
+      213: 3136007017029704695
+    second: pngfind.com-explosions-png-32584_25
+  - first:
+      213: -4557100352030449320
+    second: pngfind.com-explosions-png-32584_26
+  - first:
+      213: -7274390693870181711
+    second: pngfind.com-explosions-png-32584_27
+  - first:
+      213: -6218764089262697629
+    second: pngfind.com-explosions-png-32584_28
+  - first:
+      213: -7607652233470013183
+    second: pngfind.com-explosions-png-32584_29
+  - first:
+      213: 539239851098463944
+    second: pngfind.com-explosions-png-32584_30
+  - first:
+      213: -4445849710554314941
+    second: pngfind.com-explosions-png-32584_31
+  - first:
+      213: -2734855637416337855
+    second: pngfind.com-explosions-png-32584_32
+  - first:
+      213: 7678827637967471397
+    second: pngfind.com-explosions-png-32584_33
+  - first:
+      213: -5793662140192257503
+    second: pngfind.com-explosions-png-32584_34
+  - first:
+      213: -2323579189817211018
+    second: pngfind.com-explosions-png-32584_35
+  - first:
+      213: 2198553479662961378
+    second: pngfind.com-explosions-png-32584_36
+  - first:
+      213: -4040999565136640044
+    second: pngfind.com-explosions-png-32584_37
+  - first:
+      213: -6210956098175726132
+    second: pngfind.com-explosions-png-32584_38
+  - first:
+      213: 8817304527300264439
+    second: pngfind.com-explosions-png-32584_39
+  - first:
+      213: 1359619563433983103
+    second: pngfind.com-explosions-png-32584_40
+  - first:
+      213: -2794841429635001856
+    second: pngfind.com-explosions-png-32584_41
+  - first:
+      213: -5628840069560324484
+    second: pngfind.com-explosions-png-32584_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 849
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b8ab0590bb47f0800000000000000
+      internalID: -627213568895829813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 849
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff657a50de4e9b0800000000000000
+      internalID: -5051652273464737978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_2
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 842
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6c07e1b6f7760e0800000000000000
+      internalID: -2276710988563560721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 937
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69e93cc50f3c8d0800000000000000
+      internalID: -2827151859848931614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 837
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997dd3e2e50e1f180800000000000000
+      internalID: -9083232278322227303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_5
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 836
+        width: 113
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790dc10b67e9d4800800000000000000
+      internalID: 598308558108151959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 833
+        width: 114
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad956bc31dead700800000000000000
+      internalID: 566025372461014437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_7
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 831
+        width: 121
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26322eb1fdcfbee90800000000000000
+      internalID: -6995219561014221982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_8
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 829
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6982b6a216dde0400800000000000000
+      internalID: 292414435218892950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 558
+        width: 162
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7290dd45c32d9c0800000000000000
+      internalID: -3903991591793514569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_10
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 553
+        width: 169
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa93f0e3f79dc3370800000000000000
+      internalID: 8303750953489611178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_11
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 551
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84ea99eaf36930a0800000000000000
+      internalID: -6901375024656358258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_12
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 716
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03340672c3efe1920800000000000000
+      internalID: 2963085139168478000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 572
+        width: 135
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86695962408abc5c0800000000000000
+      internalID: -4194073892184811928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 570
+        width: 141
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaded1493d1d6ec0800000000000000
+      internalID: -3572166797679469906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_15
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 566
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8ed1e5e20dcc50800000000000000
+      internalID: 6687004208075280372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 563
+        width: 154
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4ecac15e4c011e0800000000000000
+      internalID: -2229065327240747840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_17
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 561
+        width: 159
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70efd3769179b840800000000000000
+      internalID: 5240344532425367674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 292
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c1eea223e24f80800000000000000
+      internalID: -8123681039720529868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_19
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 285
+        width: 198
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec43a37cbdec270800000000000000
+      internalID: 8272791214247693888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 283
+        width: 204
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a16e6aff40c01e0800000000000000
+      internalID: -2230402219391968720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_21
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 279
+        width: 209
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e4bfe923e85a5a0800000000000000
+      internalID: -6510641338227405248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_22
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 276
+        width: 214
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38aadb94137d8ee40800000000000000
+      internalID: 5686031136245787267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_23
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 273
+        width: 210
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e320ca30d566837b0800000000000000
+      internalID: -5244329216393346498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_24
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 371
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900894e4978cbc5c0800000000000000
+      internalID: -4194038204635447287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_25
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 270
+        width: 219
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb103744c5558b20800000000000000
+      internalID: 3136007017029704695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_26
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 269
+        width: 239
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851ea67df5de1c0c0800000000000000
+      internalID: -4557100352030449320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 225
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2e57e843c2c0b90800000000000000
+      internalID: -7274390693870181711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 10
+        width: 219
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3639a8d520382b9a0800000000000000
+      internalID: -6218764089262697629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 9
+        width: 234
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1011059c9903c6690800000000000000
+      internalID: -7607652233470013183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_30
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 10
+        width: 240
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce557d99c3cb7700800000000000000
+      internalID: 539239851098463944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_31
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 8
+        width: 234
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34703ad4e3b2d42c0800000000000000
+      internalID: -4445849710554314941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_32
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 6
+        width: 258
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e13d3a947db0ad0800000000000000
+      internalID: -2734855637416337855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_33
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1
+        width: 258
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523c0847d0da09a60800000000000000
+      internalID: 7678827637967471397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_34
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 0
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0639caf6c89fa0800000000000000
+      internalID: -5793662140192257503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_35
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 223
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6778477a90df0cfd0800000000000000
+      internalID: -2323579189817211018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_36
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 203
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28207cdb4d28e10800000000000000
+      internalID: 2198553479662961378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_37
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 206
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c58e3e4c7be7c0800000000000000
+      internalID: -4040999565136640044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_38
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd80b4f5504ec9a0800000000000000
+      internalID: -6210956098175726132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_39
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 210
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f10d2260cb5d5a70800000000000000
+      internalID: 8817304527300264439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_40
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 116
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c77241ac65ed210800000000000000
+      internalID: 1359619563433983103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_41
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0029f07078ab639d0800000000000000
+      internalID: -2794841429635001856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-explosions-png-32584_42
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e2f5497c752e1b0800000000000000
+      internalID: -5628840069560324484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngfind.com-explosions-png-32584_0: -627213568895829813
+      pngfind.com-explosions-png-32584_1: -5051652273464737978
+      pngfind.com-explosions-png-32584_10: 8303750953489611178
+      pngfind.com-explosions-png-32584_11: -6901375024656358258
+      pngfind.com-explosions-png-32584_12: 2963085139168478000
+      pngfind.com-explosions-png-32584_13: -4194073892184811928
+      pngfind.com-explosions-png-32584_14: -3572166797679469906
+      pngfind.com-explosions-png-32584_15: 6687004208075280372
+      pngfind.com-explosions-png-32584_16: -2229065327240747840
+      pngfind.com-explosions-png-32584_17: 5240344532425367674
+      pngfind.com-explosions-png-32584_18: -8123681039720529868
+      pngfind.com-explosions-png-32584_19: 8272791214247693888
+      pngfind.com-explosions-png-32584_2: -2276710988563560721
+      pngfind.com-explosions-png-32584_20: -2230402219391968720
+      pngfind.com-explosions-png-32584_21: -6510641338227405248
+      pngfind.com-explosions-png-32584_22: 5686031136245787267
+      pngfind.com-explosions-png-32584_23: -5244329216393346498
+      pngfind.com-explosions-png-32584_24: -4194038204635447287
+      pngfind.com-explosions-png-32584_25: 3136007017029704695
+      pngfind.com-explosions-png-32584_26: -4557100352030449320
+      pngfind.com-explosions-png-32584_27: -7274390693870181711
+      pngfind.com-explosions-png-32584_28: -6218764089262697629
+      pngfind.com-explosions-png-32584_29: -7607652233470013183
+      pngfind.com-explosions-png-32584_3: -2827151859848931614
+      pngfind.com-explosions-png-32584_30: 539239851098463944
+      pngfind.com-explosions-png-32584_31: -4445849710554314941
+      pngfind.com-explosions-png-32584_32: -2734855637416337855
+      pngfind.com-explosions-png-32584_33: 7678827637967471397
+      pngfind.com-explosions-png-32584_34: -5793662140192257503
+      pngfind.com-explosions-png-32584_35: -2323579189817211018
+      pngfind.com-explosions-png-32584_36: 2198553479662961378
+      pngfind.com-explosions-png-32584_37: -4040999565136640044
+      pngfind.com-explosions-png-32584_38: -6210956098175726132
+      pngfind.com-explosions-png-32584_39: 8817304527300264439
+      pngfind.com-explosions-png-32584_4: -9083232278322227303
+      pngfind.com-explosions-png-32584_40: 1359619563433983103
+      pngfind.com-explosions-png-32584_41: -2794841429635001856
+      pngfind.com-explosions-png-32584_42: -5628840069560324484
+      pngfind.com-explosions-png-32584_5: 598308558108151959
+      pngfind.com-explosions-png-32584_6: 566025372461014437
+      pngfind.com-explosions-png-32584_7: -6995219561014221982
+      pngfind.com-explosions-png-32584_8: 292414435218892950
+      pngfind.com-explosions-png-32584_9: -3903991591793514569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
