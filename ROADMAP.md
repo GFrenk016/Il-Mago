@@ -152,13 +152,13 @@ Esplora → combatti → elimina i nemici → sopravvivi → completa il livello
 - [X] Imparare a usare il sistema Tilemap
 - [X] Creare una Tile Palette
 - [X] Disegnare il terreno
-- [ ] Posizionare muri
-- [ ] Aggiungere ostacoli
-- [ ] Aggiungere decorazioni
-- [ ] Configurare le collisioni della Tilemap
-- [ ] Creare livelli più grandi della schermata
-- [ ] Gestire entrata e uscita dal livello
-- [ ] Costruire una piccola arena di test prima dei livelli definitivi
+- [X] Posizionare muri
+- [X] Aggiungere ostacoli
+- [X] Aggiungere decorazioni
+- [X] Configurare le collisioni della Tilemap
+- [X] Creare livelli più grandi della schermata
+- [X] Gestire entrata e uscita dal livello
+- [X] Costruire una piccola arena di test prima dei livelli definitivi
 
 **Risultato atteso:** è possibile creare velocemente mappe esplorabili e modificarle senza ricostruire manualmente ogni elemento.
 
