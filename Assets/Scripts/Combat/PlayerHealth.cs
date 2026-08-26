@@ -15,6 +15,7 @@ public sealed class PlayerHealth : MonoBehaviour
     [Header("Eventi")]
     [SerializeField] private UnityEvent onDamaged;
     [SerializeField] private UnityEvent onDied;
+    [SerializeField] private UnityEvent onHealed;
 
     private float invulnerableUntilTime;
 
@@ -59,5 +60,18 @@ public sealed class PlayerHealth : MonoBehaviour
         {
             onDied?.Invoke();
         }
+    }
+
+    // Usato dai pickup (es. HealthPickup) per ripristinare HP. Non fa nulla se
+    // il player è già morto.
+    public void Heal(float amount)
+    {
+        if (!IsAlive || amount <= 0f)
+        {
+            return;
+        }
+
+        CurrentHealth = Mathf.Min(maxHealth, CurrentHealth + amount);
+        onHealed?.Invoke();
     }
 }

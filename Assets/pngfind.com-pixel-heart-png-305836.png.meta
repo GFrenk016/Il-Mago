@@ -1,11 +1,10 @@
 fileFormatVersion: 2
-guid: 4ca959f6717f8ce44b804b42b92716b5
+guid: a0d91b7251463dd45bbd418069ad1d82
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6041045817807773663
-    second: minecraft-item-texture-exactly-16x16-pixels-flat-2d-32x32-pixel-art-b046-removebg-preview
-      (2)_0
+      213: 6877243704019294510
+    second: pngfind.com-pixel-heart-png-305836_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -38,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -52,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 512
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -76,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -114,14 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: minecraft-item-texture-exactly-16x16-pixels-flat-2d-32x32-pixel-art-b046-removebg-preview
-        (2)_0
+      name: pngfind.com-pixel-heart-png-305836_0
       rect:
         serializedVersion: 2
-        x: 114
-        y: 69
-        width: 272
-        height: 362
+        x: 0
+        y: 0
+        width: 897
+        height: 897
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdf9a4a1a2b16d350800000000000000
-      internalID: 6041045817807773663
+      spriteID: e299cdb26b0e07f50800000000000000
+      internalID: 6877243704019294510
       vertices: []
       indices: 
       edges: []
@@ -150,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      minecraft-item-texture-exactly-16x16-pixels-flat-2d-32x32-pixel-art-b046-removebg-preview (2)_0: 6041045817807773663
+      pngfind.com-pixel-heart-png-305836_0: 6877243704019294510
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
