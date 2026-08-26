@@ -175,7 +175,7 @@ Esplora → combatti → elimina i nemici → sopravvivi → completa il livello
 - [ ] Costruire una mappa semplice e leggibile
 - [ ] Inserire 3–5 Goblin
 - [ ] Introdurre gradualmente movimento e combattimento
-- [ ] Insegnare al giocatore a mirare e sparare
+- [ ] Insegnare al giocatore a mirare e spararegit 
 - [ ] Insegnare a evitare gli attacchi
 - [ ] Creare un obiettivo o un'uscita di fine livello
 - [ ] Testare il livello dall'inizio alla fine
