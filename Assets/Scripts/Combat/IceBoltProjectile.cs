@@ -78,7 +78,8 @@ public sealed class IceBoltProjectile : MonoBehaviour
 
         if (targetHealth != null)
         {
-            targetHealth.TakeDamage(damage);
+            // Il moltiplicatore vale 1 se il player non ha il buff attivo.
+            targetHealth.TakeDamage(PlayerDamageBuff.Scale(damage));
 
             if (targetHealth.IsAlive)
             {

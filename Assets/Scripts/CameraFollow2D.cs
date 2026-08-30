@@ -20,6 +20,14 @@ public sealed class CameraFollow2D : MonoBehaviour
         MoveToTarget(immediate: true);
     }
 
+    // Riallinea subito la camera sul target, senza lo smorzamento: serve
+    // quando il player viene spostato di colpo (es. TeleportPoint).
+    public void SnapToTarget()
+    {
+        velocity = Vector3.zero;
+        MoveToTarget(immediate: true);
+    }
+
     private void LateUpdate()
     {
         MoveToTarget(immediate: false);

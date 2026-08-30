@@ -79,7 +79,8 @@ public sealed class FireballProjectile : MonoBehaviour
 
         if (targetHealth != null)
         {
-            targetHealth.TakeDamage(damage);
+            // Il moltiplicatore vale 1 se il player non ha il buff attivo.
+            targetHealth.TakeDamage(PlayerDamageBuff.Scale(damage));
 
             if (targetHealth.IsAlive && targetHealth.TryGetComponent(out BurnPanicEffect panicEffect))
             {

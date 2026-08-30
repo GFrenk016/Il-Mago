@@ -120,7 +120,8 @@ public sealed class ArcaneBlastProjectile : MonoBehaviour
                 continue;
             }
 
-            health.TakeDamage(damage);
+            // Il moltiplicatore vale 1 se il player non ha il buff attivo.
+            health.TakeDamage(PlayerDamageBuff.Scale(damage));
             if (!health.IsAlive)
             {
                 continue;
