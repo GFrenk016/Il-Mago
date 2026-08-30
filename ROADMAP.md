@@ -172,13 +172,13 @@ Esplora → combatti → elimina i nemici → sopravvivi → completa il livello
 **Magia disponibile:** Fireball  
 **Durata target:** 3–5 minuti
 
-- [ ] Costruire una mappa semplice e leggibile
-- [ ] Inserire 3–5 Goblin
-- [ ] Introdurre gradualmente movimento e combattimento
-- [ ] Insegnare al giocatore a mirare e spararegit 
-- [ ] Insegnare a evitare gli attacchi
-- [ ] Creare un obiettivo o un'uscita di fine livello
-- [ ] Testare il livello dall'inizio alla fine
+- [X] Costruire una mappa semplice e leggibile
+- [X] Inserire 3–5 Goblin
+- [X] Introdurre gradualmente movimento e combattimento
+- [X] Insegnare al giocatore a mirare e spararegit 
+- [X] Insegnare a evitare gli attacchi
+- [X] Creare un obiettivo o un'uscita di fine livello
+- [X] Testare il livello dall'inizio alla fine
 
 **Progressione appresa dal giocatore:**
 
@@ -187,6 +187,11 @@ Muoversi → mirare → sparare → evitare gli attacchi → completare il livel
 ```
 
 ---
+
+
+
+
+# Milestone aggiuntive
 
 ## Milestone 7 — Livello 2: Haunted Graveyard 💀
 
@@ -407,46 +412,3 @@ BUILD .EXE
 ```
 
 ---
-
-## Regole per mantenere il progetto piccolo
-
-Fino alla conclusione della build finale, non aggiungere:
-
-- Inventario complesso
-- Crafting
-- Skill tree
-- Loot casuale
-- NPC e dialoghi complessi
-- Quest secondarie
-- Open world
-- Multiplayer
-- Più di tre magie
-- Più di tre livelli
-
-Ogni nuova idea può essere annotata in una lista separata per un eventuale progetto futuro, ma non deve bloccare la conclusione di questo gioco.
-
----
-
-## Competenze allenate
-
-Portando a termine questa roadmap avrai lavorato con:
-
-- C#
-- Fisica e collisioni 2D
-- Input e movimento
-- Tilemap
-- Camera
-- Intelligenza artificiale basilare
-- UI
-- Animazioni
-- Prefab
-- Scene
-- Salvataggi locali
-- Audio
-- Game design
-- Level design
-- Debugging
-- Testing
-- Creazione di una build
-
-Il progetto non deve essere un capolavoro: deve essere **il gioco che ti insegna come si finisce un videogioco**.
